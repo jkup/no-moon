@@ -1,0 +1,28 @@
+{
+  "name": "no-moon",
+  "version": "1.0.0",
+  "description": "A Twitter bot that posts \"That's no moon..\" whenever someone tweets the word moon",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkup/no-moon.git"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "star",
+    "wars"
+  ],
+  "author": "Jon Kuperman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jkup/no-moon/issues"
+  },
+  "homepage": "https://github.com/jkup/no-moon#readme",
+  "dependencies": {
+    "twit": "^2.2.2"
+  }
+}
